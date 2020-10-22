@@ -4,6 +4,6 @@ MAINTAINER dramaticparsley@gmail.com
 
 RUN apt-get update
 RUN apt-get -y install hugo
-COPY ./* $HOME
+COPY ./* $HOME/
 RUN ls -la $HOME
 CMD hugo server
