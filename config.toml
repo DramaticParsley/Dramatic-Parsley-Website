@@ -1,11 +1,11 @@
-baseurl = "https://example.org/"
+baseurl = "https://dramaticparsley.com/"
 title = "Creative portfolio"
 theme = "default"
 languageCode = "en-us"
 # Enable comments by entering your Disqus shortname
 disqusShortname = ""
 # Enable Google Analytics by entering your tracking code
-googleAnalytics = ""
+googleAnalytics = "G-YD0P4X1F3W"
 
 [params]
   # Style options: default (pink), blue, green, pink, red, sea, violet
