@@ -1,5 +1,5 @@
 baseurl = ""
-title = "Creative portfolio"
+title = "Dramatic Parsley"
 theme = "default"
 languageCode = "en-us"
 # Enable comments by entering your Disqus shortname
@@ -12,10 +12,10 @@ googleAnalytics = "G-YD0P4X1F3W"
   # Use custom.css for your custom styling
   style = "default"
   description = "Describe your website"
-  copyright = "&copy;2016 Your name or company"
+  copyright = "&copy;2020 Dramatic Parsley"
   sidebarAbout = [
-    "I am a creative illustrator and graphic designer with more than 10 years of experience.",
-    "Originally from Toronto, currently based in London."
+    "Check out the adventures of the most dramatic herb I know",
+    "Currently based in Metro Detroit."
   ]
   # Contact page
      # Since this template is static, the contact form uses www.formspree.io as a
@@ -29,7 +29,7 @@ googleAnalytics = "G-YD0P4X1F3W"
      # - send a dummy email yourself to confirm your account
      # - click the confirm link in the email from www.formspree.io
      # - you're done. Happy mailing!
-  email = "you@yoursite.com"
+  email = "dramaticparsley@gmail.com.com"
 
     # Optional Matomo analytics (formerly piwik)
       # [params.analytics.matomo]
@@ -56,12 +56,12 @@ googleAnalytics = "G-YD0P4X1F3W"
 
   [params.social]
   facebook      = "full page or profile url in facebook"
-  googleplus    = "full profile url in googleplus"
+  #googleplus    = "full profile url in googleplus"
   email         = "dramaticparsley@gmail.com"
   twitter       = "full profile url in twitter"
-  linkedin      = "full profile url in linkedin"
-  stackoverflow = "full profile url in stackoverflow"
+  #linkedin      = "full profile url in linkedin"
+  #stackoverflow = "full profile url in stackoverflow"
   instagram     = "full profile url in instagram"
   github        = "full profile url in github"
   youtube       = "full profile url in youtube"
-  whatsapp      = "wa.me service link"
+  #whatsapp      = "wa.me service link"
