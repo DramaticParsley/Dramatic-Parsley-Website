@@ -4,6 +4,8 @@ MAINTAINER dramaticparsley@gmail.com
 
 RUN apt-get update
 RUN apt-get -y install hugo
-COPY ./* $HOME/
-RUN ls -la $HOME
+RUN mkdir -p /home/workspace
+COPY . /home/workspace
+RUN ls -la /home/workspace
+WORKDIR /home/workspace
 CMD hugo server
