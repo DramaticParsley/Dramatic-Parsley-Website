@@ -1,10 +1,12 @@
 +++
-image = "img/portfolio/label-clothes.jpg"
+image = "img/portfolio/bridge1.jpg"
 showonlyimage = false
-date = "2016-11-05T19:57:40+05:30"
-title = "Name of the work 7"
+date = "2017-05-05T19:44:32+05:30"
+title = "Another Awesome Post"
+writer = "Göran Svensson"
+categories = [ "travel" ]
 draft = false
-weight = 7
+weight = 3
 +++
 
 Fifth abundantly made Give sixth hath. Cattle creature i be don't them.

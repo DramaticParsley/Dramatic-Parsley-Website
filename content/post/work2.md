@@ -1,14 +1,20 @@
 +++
-showonlyimage = false
+date = "2016-11-05T19:41:01+05:30"
+title = "This is a Standard Post"
+writer = "Göran Svensson"
 draft = false
-image = "img/portfolio/ipad-air-2.jpg"
-date = "2016-11-05T19:59:22+05:30"
-title = "Name of the work 8"
-weight = 8
+image = "img/portfolio/logs1.jpg"
+showonlyimage = false
+categories = [ "design"]
+weight = 2
+description = "Individual meta description for this post"
 +++
 
-Fifth abundantly made Give sixth hath. Cattle creature i be don't them.
+This is what an ordinary post looks like, and you’re reading a custom excerpt right now. Have fun looking around the theme, and don’t forget to check it out on your phone!
 <!--more-->
+
+When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane.
+
 
 Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.
 
