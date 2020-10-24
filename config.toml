@@ -1,4 +1,4 @@
-baseurl = ""
+baseurl = "https://www.dramaticparsley.com/"
 title = "Dramatic Parsley"
 theme = "hugo-creative-portfolio-theme"
 languageCode = "en-us"
